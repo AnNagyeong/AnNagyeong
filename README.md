@@ -10,5 +10,3 @@ Linux 기반 서버 환경에서 로그 분석, 시스템 모니터링, 운영 �
 # 📊 GitHub Activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnNagyeong&show_icons=true)
 
-📫 Contact
-✉️ Email: hun111077@gmail.com
